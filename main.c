@@ -8,7 +8,7 @@
 
 #include "file_rw.h"
 
-char usage_str[] = "Usage example: main.exe [-tichf] [-s ';'] input.csv [output.xml]\n" \
+char usage_str[] = "Usage example: csv2xml.exe [-tichf] [-s ';'] input.csv [output.xml]\n" \
     "\t-t - to generate file in table form\n" \
     "\t-i - to generate file in inline form\n" \
     "\t-c - to combine data from multiple files into one output\n"\
@@ -319,4 +319,5 @@ int main(int argc, char* argv[]) {
     printf("Program done!\n");
 
     return 0;
+
 }
