@@ -6,7 +6,8 @@ This project was created as educational, but looks fine enough to upload it.
 Compiled only for Windows, but probably will work fine for any other os.
 
 # How To Use
-1. Download executable file from releases
+1. Download executable file from releases [DOWNLOAD](https://github.com/YaNesyTortiK/csv2xml/releases/download/1.0.0/csv2xml.exe)
+
    OPTIONAL: Add file to PATH to skip path to executable when using
 2. Basic use: `csv2xml input.csv output.xml` (assuming you added file to PATH)
 
